@@ -1,0 +1,16 @@
+{
+    "code": "200",
+    "body": {
+        "config": {
+            "version": "3.8.3",
+            "versionApk": "2.3.0",
+            "versionIos": "2.2.0",
+            "checkVersion": 1,
+            "jiguang": "Basic Nzg2OWFjODUzOGMxNTI2YTAyMzg2NDMxOmE3N2ViNmRmYzg1YTAzNzQzYmFjNzcyNQ==",
+            "juheKey": "fc5e345a0b074c5573334fc62597d7aa",
+            "juhe": "187735",
+            "domain": "http://47.98.112.171"
+        }
+    },
+    "desc": ""
+}

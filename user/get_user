@@ -1,0 +1,17 @@
+{
+    "code": "200",
+    "body": {
+        "user": {
+            "phone": "18888888888",
+            "expireTime": "2025-03-21",
+            "bonus": 0,
+            "recordId": 888888,
+            "isWithdraw": 0,
+            "isAgent": 0,
+            "role": "VIP2",
+            "points": 3,
+            "isCode": 0
+        }
+    },
+    "desc": ""
+}

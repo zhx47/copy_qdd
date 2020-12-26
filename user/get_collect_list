@@ -1,0 +1,106 @@
+{
+    "code": "200",
+    "body": {
+        "collectList": [
+            {
+                "siteId": "mapodoufu",
+                "group": "mapodoufu",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000001
+            },
+            {
+                "siteId": "mapodoufu1",
+                "group": "mapodoufu",
+                "index": "1",
+                "siteName": null,
+                "collectId": 2000002
+            },
+            {
+                "siteId": "suanluobo",
+                "group": "suanluobo",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000003
+            },
+            {
+                "siteId": "linghuaqian",
+                "group": "linghuaqian",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000004
+            },
+            {
+                "siteId": "huiyuanzizhujiedan",
+                "group": "huiyuanzizhujiedan",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000005
+            },
+            {
+                "siteId": "huiyuanzizhujiedan1",
+                "group": "huiyuanzizhujiedan",
+                "index": "1",
+                "siteName": null,
+                "collectId": 2000006
+            },
+            {
+                "siteId": "renqiwang",
+                "group": "renqiwang",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000007
+            },
+            {
+                "siteId": "shijin",
+                "group": "shijin",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000008
+            },
+            {
+                "siteId": "shijin1",
+                "group": "shijin",
+                "index": "1",
+                "siteName": null,
+                "collectId": 2000009
+            },
+            {
+                "siteId": "dliuliu",
+                "group": "dliuliu",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000010
+            },
+            {
+                "siteId": "laodifang",
+                "group": "laodifang",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000011
+            },
+            {
+                "siteId": "miaomiaomiao",
+                "group": "miaomiaomiao",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000012
+            },
+            {
+                "siteId": "haofeimao",
+                "group": "haofeimao",
+                "index": "",
+                "siteName": null,
+                "collectId": 2000013
+            },
+            {
+                "siteId": "haofeimao1",
+                "group": "haofeimao",
+                "index": "1",
+                "siteName": null,
+                "collectId": 2000014
+            }
+        ]
+    },
+    "desc": ""
+}
